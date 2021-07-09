@@ -1,19 +1,17 @@
 [English Version](README.EN.md)
 
-# Aprendendo _____
+# Aprendendo Data Science
 
-Este repositório contém os arquivos ____ desenvolvidos durante o curso online de
-____ realizado na plataforma [Alura Cursos Online](https://alura.com.br).
+Este repositório contém os arquivos desenvolvidos durante o curso online de Data Science realizado na plataforma [Alura Cursos Online](https://alura.com.br).
 
 ## Repositório Oficial da Alura
 
-Os códigos fontes oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis no repositório do Github deste
-curso da Alura:
+Os arquivos oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis no repositório do Github deste curso da Alura:
 
-[____](____).
+[Data Science: Primeiros passos](https://github.com/alura-cursos/introducao-a-data-science).
 
 ## Cursos
 
-Os cursos em que estes programas foram feitos:
+Os cursos em que estes arquivos foram desenvolvidos:
 
-[____](____).
+[Data Science: Primeiros passos](https://cursos.alura.com.br/course/data-science-primeiros-passos).
